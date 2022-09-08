@@ -17,4 +17,4 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/kRVLKwYG3d1HGLvh7JFWRT/JavaScript.-Sprint-6?node-id=1124%3A2)
 
-* [Ссылка на проект](https://svytoslavdzis1.github.io/mesto/)
+* [Ссылка на проект](https://svytoslavdzis1.github.io/mesto/index.html)
