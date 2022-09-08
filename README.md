@@ -14,11 +14,10 @@
 - откройте проект в редакторе кода и выполните следующие действия:
 - запустите в командной строке `npm i`;
 - введите npm run build;
-- можно запустить проект на локальной сервисе npm run dev;
+- запуститите проект на локальной сервисе npm run dev;
 
 ## Статус проекта
 Будет перенос проекта на React.
-
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/kRVLKwYG3d1HGLvh7JFWRT/JavaScript.-Sprint-6?node-id=1124%3A2)
 * [Ссылка на проект](https://svytoslavdzis1.github.io/mesto/index.html)
